@@ -9,7 +9,5 @@ class Object
 	Vector2 force;
 	float mass;
 
-	void render() {
-		
-	}
+	void render();
 }
